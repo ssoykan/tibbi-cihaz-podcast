@@ -15,15 +15,15 @@
     <image><url>https://ssoykan.github.io/tibbi-cihaz-podcast/cover.png</url><title>Zibidi – Tıbbi Cihaz Sohbetleri</title><link>https://ssoykan.github.io/tibbi-cihaz-podcast/</link></image>
     <itunes:category text="Science"/>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
-    <lastBuildDate>Sat, 31 Oct 2026 21:08:21 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 22:19:34 +0300</lastBuildDate>
     <item>
-      <title>Pulse oksimetre: parmaktaki ışık neyi ölçüyor? (yeni ses)</title>
-      <description>Elif ile Ahmet, pulse oksimetrenin modüllerini, çalışma prensibini, bakım, arıza ve kalibrasyon yöntemlerini sohbet ederek anlatıyor.</description>
-      <itunes:summary>Elif ile Ahmet, pulse oksimetrenin modüllerini, çalışma prensibini, bakım, arıza ve kalibrasyon yöntemlerini sohbet ederek anlatıyor.</itunes:summary>
-      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-10-31-pulse-oksimetre-v3.mp3" length="6498476" type="audio/mpeg"/>
-      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-10-31-pulse-oksimetre-v3</guid>
-      <pubDate>Sat, 31 Oct 2026 21:10:00 +0300</pubDate>
-      <itunes:duration>9:01</itunes:duration>
+      <title>Pulse oksimetre: simülatör yanılgısı, bakım ve kalibrasyon</title>
+      <description>Pulse oksimetrenin modülleri, çalışma prensibi, bakım, arıza ve kalibrasyon yöntemleri üzerine iki kişilik sohbet. Kaynaklar: Nellcor N-600x servis kılavuzu, Fluke Biomedical, FDA 2025 taslak kılavuzu, WHO, Nitzan 2014, IEC 62353 örnek sayfaları.</description>
+      <itunes:summary>Pulse oksimetrenin modülleri, çalışma prensibi, bakım, arıza ve kalibrasyon yöntemleri üzerine iki kişilik sohbet. Kaynaklar: Nellcor N-600x servis kılavuzu, Fluke Biomedical, FDA 2025 taslak kılavuzu, WHO, Nitzan 2014, IEC 62353 örnek sayfaları.</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-10-31-pulse-oksimetre-nlm.mp3" length="5017528" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-10-31-pulse-oksimetre-nlm</guid>
+      <pubDate>Sat, 31 Oct 2026 22:20:00 +0300</pubDate>
+      <itunes:duration>6:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
