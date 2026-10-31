@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zibidi – Tıbbi Cihaz Sohbetleri</title>
+    <link>https://ssoykan.github.io/tibbi-cihaz-podcast/</link>
+    <atom:link href="https://ssoykan.github.io/tibbi-cihaz-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>tr</language>
+    <description>Biyomedikal mühendisliği ve tıbbi cihazlar üzerine günlük, kısa Türkçe sohbetler. Kişisel kullanım içindir.</description>
+    <itunes:summary>Biyomedikal mühendisliği ve tıbbi cihazlar üzerine günlük, kısa Türkçe sohbetler. Kişisel kullanım içindir.</itunes:summary>
+    <itunes:author>Soykan</itunes:author>
+    <itunes:owner><itunes:name>Soykan</itunes:name></itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://ssoykan.github.io/tibbi-cihaz-podcast/cover.png"/>
+    <image><url>https://ssoykan.github.io/tibbi-cihaz-podcast/cover.png</url><title>Zibidi – Tıbbi Cihaz Sohbetleri</title><link>https://ssoykan.github.io/tibbi-cihaz-podcast/</link></image>
+    <itunes:category text="Science"/>
+    <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
+    <lastBuildDate>Sat, 31 Oct 2026 20:05:25 +0300</lastBuildDate>
+    <item>
+      <title>Pulse oksimetre: parmaktaki ışık neyi ölçüyor?</title>
+      <description>Elif ile Ahmet, pulse oksimetrenin kırmızı ve kızılötesi ışıkla SpO2 ve nabzı nasıl tahmin ettiğini, sahadaki hata kaynaklarını ve bakım ipuçlarını sohbet ederek anlatıyor.</description>
+      <itunes:summary>Elif ile Ahmet, pulse oksimetrenin kırmızı ve kızılötesi ışıkla SpO2 ve nabzı nasıl tahmin ettiğini, sahadaki hata kaynaklarını ve bakım ipuçlarını sohbet ederek anlatıyor.</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-10-31-pulse-oksimetre.mp3" length="6872300" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-10-31-pulse-oksimetre</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0300</pubDate>
+      <itunes:duration>9:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
