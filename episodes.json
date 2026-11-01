@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-11-01-hasta-basi-monitor",
+  "title": "Hasta başı monitör: teknik servis sırları",
+  "desc": "Çok parametreli hasta başı monitörü teknik servis gözüyle: EKG, SpO2, osilometrik NIBP, IBP ve sıcaklık; modüller, cihaz tipleri, ProSim 8 ile performans testleri, IEC 62353. Kaynaklar: Mindray ePM servis kılavuzu, Philips IntelliVue MP20/MP30 servis kılavuzu, Fluke ProSim 8 kılavuzu, IEC 60601-2-27 ve IEC 62353 önizlemeleri, PMC osilometrik tansiyon ve pulse oksimetri derlemeleri.",
+  "bytes": 4353599,
+  "duration": "6:02",
+  "pubdate": "Sun, 01 Nov 2026 06:03:00 +0300"
+ },
+ {
   "slug": "2026-11-01-infuzyon-pompasi",
   "title": "İnfüzyon pompası: mekanik ve sensör mühendisliği",
   "desc": "Volumetrik ve şırınga infüzyon pompaları teknik servis gözüyle: pompa mekanizması, oklüzyon ve hava sensörleri, cihaz tipleri, IDA-5 ile akış ve oklüzyon testleri, IEC 62353. Kaynaklar: Baxter Sigma Spectrum servis kılavuzu, B. Braun Infusomat Space servis kılavuzu, Alaris GH/CC şırınga pompası servis kılavuzu, Fluke IDA-5 kılavuzu, IEC 60601-2-24 ve IEC 62353 önizlemeleri, FDA İnfüzyon Pompası İyileştirme Girişimi.",

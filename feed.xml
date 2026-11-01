@@ -15,7 +15,18 @@
     <image><url>https://ssoykan.github.io/tibbi-cihaz-podcast/cover.png</url><title>Zibidi – Tıbbi Cihaz Sohbetleri</title><link>https://ssoykan.github.io/tibbi-cihaz-podcast/</link></image>
     <itunes:category text="Science"/>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
-    <lastBuildDate>Sun, 01 Nov 2026 04:02:48 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 04:15:07 +0300</lastBuildDate>
+    <item>
+      <title>Hasta başı monitör: teknik servis sırları</title>
+      <description>Çok parametreli hasta başı monitörü teknik servis gözüyle: EKG, SpO2, osilometrik NIBP, IBP ve sıcaklık; modüller, cihaz tipleri, ProSim 8 ile performans testleri, IEC 62353. Kaynaklar: Mindray ePM servis kılavuzu, Philips IntelliVue MP20/MP30 servis kılavuzu, Fluke ProSim 8 kılavuzu, IEC 60601-2-27 ve IEC 62353 önizlemeleri, PMC osilometrik tansiyon ve pulse oksimetri derlemeleri.</description>
+      <itunes:summary>Çok parametreli hasta başı monitörü teknik servis gözüyle: EKG, SpO2, osilometrik NIBP, IBP ve sıcaklık; modüller, cihaz tipleri, ProSim 8 ile performans testleri, IEC 62353. Kaynaklar: Mindray ePM servis kılavuzu, Philips IntelliVue MP20/MP30 servis kılavuzu, Fluke ProSim 8 kılavuzu, IEC 60601-2-27 ve IEC 62353 önizlemeleri, PMC osilometrik tansiyon ve pulse oksimetri derlemeleri.</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-11-01-hasta-basi-monitor.mp3" length="4353599" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-11-01-hasta-basi-monitor</guid>
+      <pubDate>Sun, 01 Nov 2026 06:03:00 +0300</pubDate>
+      <itunes:duration>6:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>İnfüzyon pompası: mekanik ve sensör mühendisliği</title>
       <description>Volumetrik ve şırınga infüzyon pompaları teknik servis gözüyle: pompa mekanizması, oklüzyon ve hava sensörleri, cihaz tipleri, IDA-5 ile akış ve oklüzyon testleri, IEC 62353. Kaynaklar: Baxter Sigma Spectrum servis kılavuzu, B. Braun Infusomat Space servis kılavuzu, Alaris GH/CC şırınga pompası servis kılavuzu, Fluke IDA-5 kılavuzu, IEC 60601-2-24 ve IEC 62353 önizlemeleri, FDA İnfüzyon Pompası İyileştirme Girişimi.</description>
