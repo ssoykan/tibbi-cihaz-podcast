@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-11-02-elektrocerrahi",
+  "title": "Elektrocerrahi ünitesi (koter): çalışma mantığı, bakım, test ve yönetim",
+  "desc": "Elektrocerrahi ünitesi: çalışma prensibi, monopolar/bipolar, REM/CQM, periyodik bakım testleri, kalibrasyon, alım ve bakım sözleşmeleri. Kaynaklar: Valleylab Force FX-C servis kılavuzu, Fluke QA-ES III kullanım kılavuzu, IEC 62353:2014 önizlemesi, WHO tıbbi cihaz bakım programı.",
+  "bytes": 12031091,
+  "duration": "25:03",
+  "pubdate": "Mon, 02 Nov 2026 06:00:00 +0300"
+ },
+ {
   "slug": "2026-11-01-hasta-basi-monitor",
   "title": "Hasta başı monitör: teknik servis sırları",
   "desc": "Çok parametreli hasta başı monitörü teknik servis gözüyle: EKG, SpO2, osilometrik NIBP, IBP ve sıcaklık; modüller, cihaz tipleri, ProSim 8 ile performans testleri, IEC 62353. Kaynaklar: Mindray ePM servis kılavuzu, Philips IntelliVue MP20/MP30 servis kılavuzu, Fluke ProSim 8 kılavuzu, IEC 60601-2-27 ve IEC 62353 önizlemeleri, PMC osilometrik tansiyon ve pulse oksimetri derlemeleri.",
