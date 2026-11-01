@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-11-01-ekg",
+  "title": "EKG cihazı: sinyal işleme, bakım ve elektriksel güvenlik",
+  "desc": "12 kanallı EKG cihazı teknik servis gözüyle: çalışma mantığı, modüller, cihaz tipleri, periyodik bakım ve IEC 62353 testleri. Kaynaklar: Welch Allyn CP 150 servis kılavuzu, GE MAC 2000 kullanıcı kılavuzu, Fluke ProSim 8 kılavuzu, IEC 60601-2-25 ve IEC 62353 önizlemeleri, DSÖ bakım programı rehberi, PMC EKG teknik hatalar derlemesi.",
+  "bytes": 4162697,
+  "duration": "5:46",
+  "pubdate": "Sun, 01 Nov 2026 06:00:00 +0300"
+ },
+ {
   "slug": "2026-10-31-pulse-oksimetre-nlm",
   "title": "Pulse oksimetre: simülatör yanılgısı, bakım ve kalibrasyon",
   "desc": "Pulse oksimetrenin modülleri, çalışma prensibi, bakım, arıza ve kalibrasyon yöntemleri üzerine iki kişilik sohbet. Kaynaklar: Nellcor N-600x servis kılavuzu, Fluke Biomedical, FDA 2025 taslak kılavuzu, WHO, Nitzan 2014, IEC 62353 örnek sayfaları.",
