@@ -15,7 +15,18 @@
     <image><url>https://ssoykan.github.io/tibbi-cihaz-podcast/cover.png</url><title>Zibidi – Tıbbi Cihaz Sohbetleri</title><link>https://ssoykan.github.io/tibbi-cihaz-podcast/</link></image>
     <itunes:category text="Science"/>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
-    <lastBuildDate>Sun, 01 Nov 2026 03:47:20 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 04:02:48 +0300</lastBuildDate>
+    <item>
+      <title>İnfüzyon pompası: mekanik ve sensör mühendisliği</title>
+      <description>Volumetrik ve şırınga infüzyon pompaları teknik servis gözüyle: pompa mekanizması, oklüzyon ve hava sensörleri, cihaz tipleri, IDA-5 ile akış ve oklüzyon testleri, IEC 62353. Kaynaklar: Baxter Sigma Spectrum servis kılavuzu, B. Braun Infusomat Space servis kılavuzu, Alaris GH/CC şırınga pompası servis kılavuzu, Fluke IDA-5 kılavuzu, IEC 60601-2-24 ve IEC 62353 önizlemeleri, FDA İnfüzyon Pompası İyileştirme Girişimi.</description>
+      <itunes:summary>Volumetrik ve şırınga infüzyon pompaları teknik servis gözüyle: pompa mekanizması, oklüzyon ve hava sensörleri, cihaz tipleri, IDA-5 ile akış ve oklüzyon testleri, IEC 62353. Kaynaklar: Baxter Sigma Spectrum servis kılavuzu, B. Braun Infusomat Space servis kılavuzu, Alaris GH/CC şırınga pompası servis kılavuzu, Fluke IDA-5 kılavuzu, IEC 60601-2-24 ve IEC 62353 önizlemeleri, FDA İnfüzyon Pompası İyileştirme Girişimi.</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-11-01-infuzyon-pompasi.mp3" length="5154200" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-11-01-infuzyon-pompasi</guid>
+      <pubDate>Sun, 01 Nov 2026 06:02:00 +0300</pubDate>
+      <itunes:duration>7:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Defibrilatör ve OED: yüksek voltaj güvenliği ve kalibrasyon</title>
       <description>Defibrilatör ve OED (AED) teknik servis gözüyle: şarj devresi ve bifazik dalga, modüller, manuel ve otomatik tipler, analizörle enerji testleri, IEC 62353. Kaynaklar: Stryker LIFEPAK 15 servis kılavuzu, Philips HeartStart FRx kullanıcı kılavuzu, Fluke Impulse 7000DP kılavuzu, IEC 60601-2-4 ve IEC 62353 önizlemeleri, FDA OED nihai kararı (2015), FDA AED bilgi sayfası.</description>
