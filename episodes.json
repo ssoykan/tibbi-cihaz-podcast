@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-11-01-defibrilator",
+  "title": "Defibrilatör ve OED: yüksek voltaj güvenliği ve kalibrasyon",
+  "desc": "Defibrilatör ve OED (AED) teknik servis gözüyle: şarj devresi ve bifazik dalga, modüller, manuel ve otomatik tipler, analizörle enerji testleri, IEC 62353. Kaynaklar: Stryker LIFEPAK 15 servis kılavuzu, Philips HeartStart FRx kullanıcı kılavuzu, Fluke Impulse 7000DP kılavuzu, IEC 60601-2-4 ve IEC 62353 önizlemeleri, FDA OED nihai kararı (2015), FDA AED bilgi sayfası.",
+  "bytes": 4613779,
+  "duration": "6:24",
+  "pubdate": "Sun, 01 Nov 2026 06:01:00 +0300"
+ },
+ {
   "slug": "2026-11-01-ekg",
   "title": "EKG cihazı: sinyal işleme, bakım ve elektriksel güvenlik",
   "desc": "12 kanallı EKG cihazı teknik servis gözüyle: çalışma mantığı, modüller, cihaz tipleri, periyodik bakım ve IEC 62353 testleri. Kaynaklar: Welch Allyn CP 150 servis kılavuzu, GE MAC 2000 kullanıcı kılavuzu, Fluke ProSim 8 kılavuzu, IEC 60601-2-25 ve IEC 62353 önizlemeleri, DSÖ bakım programı rehberi, PMC EKG teknik hatalar derlemesi.",
