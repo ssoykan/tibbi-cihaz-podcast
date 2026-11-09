@@ -1,5 +1,21 @@
 [
  {
+  "slug": "2026-11-10-rontgen",
+  "title": "Röntgen (dijital radyografi): mühendislik, kalite kontrol ve yönetim",
+  "desc": "Dijital radyografi sistemlerinin çalışma mantığı, jeneratör ve dedektör, kVp/doz/HVL kalite kontrol testleri, IEC 62353, alım şartnamesi ve bakım yönetimi. Kaynaklar: Carestream DRX-Revolution Nano kılavuzu, RaySafe X2 kılavuzu, IAEA HHS 47, AAPM Report 74, WHO-IAEA taşınabilir DR teknik şartnamesi, IEC 62353.",
+  "bytes": 12539956,
+  "duration": "26:07",
+  "pubdate": "Tue, 10 Nov 2026 06:01:00 +0300"
+ },
+ {
+  "slug": "2026-11-10-ultrason",
+  "title": "Ultrason: donanım, güvenlik fiziği, bakım ve yönetim",
+  "desc": "Ultrason cihazlarının çalışma mantığı, modülleri, fantomla kalite kontrol, IEC 62353 güvenlik testleri, alım ve bakım yönetimi. Kaynaklar: GE LOGIQ e servis kılavuzu, CIRS 040GSE fantom kılavuzu, IEC 60601-2-37, IEC 62353, WHO bakım programı.",
+  "bytes": 9661471,
+  "duration": "20:07",
+  "pubdate": "Tue, 10 Nov 2026 06:00:00 +0300"
+ },
+ {
   "slug": "2026-11-02-elektrocerrahi",
   "title": "Elektrocerrahi ünitesi (koter): çalışma mantığı, bakım, test ve yönetim",
   "desc": "Elektrocerrahi ünitesi: çalışma prensibi, monopolar/bipolar, REM/CQM, periyodik bakım testleri, kalibrasyon, alım ve bakım sözleşmeleri. Kaynaklar: Valleylab Force FX-C servis kılavuzu, Fluke QA-ES III kullanım kılavuzu, IEC 62353:2014 önizlemesi, WHO tıbbi cihaz bakım programı.",
