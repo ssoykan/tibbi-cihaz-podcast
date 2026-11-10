@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-11-11-bilgisayarli-tomografi",
+  "title": "Bilgisayarlı tomografi: çalışma ilkesi, kalite kontrol, bakım ve alım",
+  "desc": "BT cihazının çalışma ilkesi, modülleri, tipleri, kabul ve periyodik kalite kontrol testleri, elektriksel güvenlik, bakım ve alım/sözleşme konuları. Kaynaklar: IAEA HHS No. 19, AAPM Report 39, RaySafe X2 kılavuzu, WHO bakım programı, IEC 62353 önizlemesi.",
+  "bytes": 10389347,
+  "duration": "21:38",
+  "pubdate": "Wed, 11 Nov 2026 06:00:00 +0300"
+ },
+ {
   "slug": "2026-11-10-rontgen",
   "title": "Röntgen (dijital radyografi): mühendislik, kalite kontrol ve yönetim",
   "desc": "Dijital radyografi sistemlerinin çalışma mantığı, jeneratör ve dedektör, kVp/doz/HVL kalite kontrol testleri, IEC 62353, alım şartnamesi ve bakım yönetimi. Kaynaklar: Carestream DRX-Revolution Nano kılavuzu, RaySafe X2 kılavuzu, IAEA HHS 47, AAPM Report 74, WHO-IAEA taşınabilir DR teknik şartnamesi, IEC 62353.",
