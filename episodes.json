@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-11-12-diyaliz",
+  "title": "Hemodiyaliz makinesi: çalışma mantığı, sensör kalibrasyonu, bakım ve yönetim",
+  "desc": "Hemodiyaliz makinesinin kan ve diyalizat devreleri, kritik sensörleri, iletkenlik, sıcaklık, pH ve basınç doğrulaması, elektriksel güvenlik, alım ve bakım sözleşmeleri. Kaynaklar: Mesa Labs 90XL diyalizat ölçer kullanım kılavuzu, Nipro SURDIAL DX biyomedikal kitapçığı, DSÖ Tıbbi cihaz bakım programına genel bakış, IEC 62353:2014 önizlemesi.",
+  "bytes": 9132962,
+  "duration": "19:01",
+  "pubdate": "Thu, 12 Nov 2026 06:05:00 +0300"
+ },
+ {
   "slug": "2026-11-12-mr",
   "title": "MR (manyetik rezonans): çalışma mantığı, bakım, kalite kontrol ve yönetim",
   "desc": "MR cihazının çalışma mantığı, kritik parçaları, cihaz tipleri, fantom testleri ve kalite kontrol, elektriksel güvenlik, alım ve bakım sözleşmeleri. Kaynaklar: AAPM Report No. 100, ACR MRI Kalite Kontrol Kılavuzu (2015), DSÖ Tıbbi cihaz bakım programına genel bakış, IEC 62353:2014 önizlemesi.",

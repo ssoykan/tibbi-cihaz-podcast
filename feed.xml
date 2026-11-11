@@ -15,7 +15,18 @@
     <image><url>https://ssoykan.github.io/tibbi-cihaz-podcast/cover.png</url><title>Zibidi – Tıbbi Cihaz Sohbetleri</title><link>https://ssoykan.github.io/tibbi-cihaz-podcast/</link></image>
     <itunes:category text="Science"/>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
-    <lastBuildDate>Wed, 11 Nov 2026 22:50:42 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:04:32 +0300</lastBuildDate>
+    <item>
+      <title>Hemodiyaliz makinesi: çalışma mantığı, sensör kalibrasyonu, bakım ve yönetim</title>
+      <description>Hemodiyaliz makinesinin kan ve diyalizat devreleri, kritik sensörleri, iletkenlik, sıcaklık, pH ve basınç doğrulaması, elektriksel güvenlik, alım ve bakım sözleşmeleri. Kaynaklar: Mesa Labs 90XL diyalizat ölçer kullanım kılavuzu, Nipro SURDIAL DX biyomedikal kitapçığı, DSÖ Tıbbi cihaz bakım programına genel bakış, IEC 62353:2014 önizlemesi.</description>
+      <itunes:summary>Hemodiyaliz makinesinin kan ve diyalizat devreleri, kritik sensörleri, iletkenlik, sıcaklık, pH ve basınç doğrulaması, elektriksel güvenlik, alım ve bakım sözleşmeleri. Kaynaklar: Mesa Labs 90XL diyalizat ölçer kullanım kılavuzu, Nipro SURDIAL DX biyomedikal kitapçığı, DSÖ Tıbbi cihaz bakım programına genel bakış, IEC 62353:2014 önizlemesi.</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-11-12-diyaliz.mp3" length="9132962" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-11-12-diyaliz</guid>
+      <pubDate>Thu, 12 Nov 2026 06:05:00 +0300</pubDate>
+      <itunes:duration>19:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>MR (manyetik rezonans): çalışma mantığı, bakım, kalite kontrol ve yönetim</title>
       <description>MR cihazının çalışma mantığı, kritik parçaları, cihaz tipleri, fantom testleri ve kalite kontrol, elektriksel güvenlik, alım ve bakım sözleşmeleri. Kaynaklar: AAPM Report No. 100, ACR MRI Kalite Kontrol Kılavuzu (2015), DSÖ Tıbbi cihaz bakım programına genel bakış, IEC 62353:2014 önizlemesi.</description>
