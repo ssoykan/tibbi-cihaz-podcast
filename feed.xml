@@ -15,7 +15,18 @@
     <image><url>https://ssoykan.github.io/tibbi-cihaz-podcast/cover.png</url><title>Zibidi – Tıbbi Cihaz Sohbetleri</title><link>https://ssoykan.github.io/tibbi-cihaz-podcast/</link></image>
     <itunes:category text="Science"/>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
-    <lastBuildDate>Tue, 10 Nov 2026 22:40:22 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 22:50:42 +0300</lastBuildDate>
+    <item>
+      <title>MR (manyetik rezonans): çalışma mantığı, bakım, kalite kontrol ve yönetim</title>
+      <description>MR cihazının çalışma mantığı, kritik parçaları, cihaz tipleri, fantom testleri ve kalite kontrol, elektriksel güvenlik, alım ve bakım sözleşmeleri. Kaynaklar: AAPM Report No. 100, ACR MRI Kalite Kontrol Kılavuzu (2015), DSÖ Tıbbi cihaz bakım programına genel bakış, IEC 62353:2014 önizlemesi.</description>
+      <itunes:summary>MR cihazının çalışma mantığı, kritik parçaları, cihaz tipleri, fantom testleri ve kalite kontrol, elektriksel güvenlik, alım ve bakım sözleşmeleri. Kaynaklar: AAPM Report No. 100, ACR MRI Kalite Kontrol Kılavuzu (2015), DSÖ Tıbbi cihaz bakım programına genel bakış, IEC 62353:2014 önizlemesi.</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-11-12-mr.mp3" length="8714167" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-11-12-mr</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0300</pubDate>
+      <itunes:duration>18:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Bilgisayarlı tomografi: çalışma ilkesi, kalite kontrol, bakım ve alım</title>
       <description>BT cihazının çalışma ilkesi, modülleri, tipleri, kabul ve periyodik kalite kontrol testleri, elektriksel güvenlik, bakım ve alım/sözleşme konuları. Kaynaklar: IAEA HHS No. 19, AAPM Report 39, RaySafe X2 kılavuzu, WHO bakım programı, IEC 62353 önizlemesi.</description>

@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-11-12-mr",
+  "title": "MR (manyetik rezonans): çalışma mantığı, bakım, kalite kontrol ve yönetim",
+  "desc": "MR cihazının çalışma mantığı, kritik parçaları, cihaz tipleri, fantom testleri ve kalite kontrol, elektriksel güvenlik, alım ve bakım sözleşmeleri. Kaynaklar: AAPM Report No. 100, ACR MRI Kalite Kontrol Kılavuzu (2015), DSÖ Tıbbi cihaz bakım programına genel bakış, IEC 62353:2014 önizlemesi.",
+  "bytes": 8714167,
+  "duration": "18:09",
+  "pubdate": "Thu, 12 Nov 2026 06:00:00 +0300"
+ },
+ {
   "slug": "2026-11-11-bilgisayarli-tomografi",
   "title": "Bilgisayarlı tomografi: çalışma ilkesi, kalite kontrol, bakım ve alım",
   "desc": "BT cihazının çalışma ilkesi, modülleri, tipleri, kabul ve periyodik kalite kontrol testleri, elektriksel güvenlik, bakım ve alım/sözleşme konuları. Kaynaklar: IAEA HHS No. 19, AAPM Report 39, RaySafe X2 kılavuzu, WHO bakım programı, IEC 62353 önizlemesi.",
