@@ -15,7 +15,29 @@
     <image><url>https://ssoykan.github.io/tibbi-cihaz-podcast/cover.png</url><title>Zibidi – Tıbbi Cihaz Sohbetleri</title><link>https://ssoykan.github.io/tibbi-cihaz-podcast/</link></image>
     <itunes:category text="Science"/>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
-    <lastBuildDate>Wed, 11 Nov 2026 23:04:32 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 22:55:07 +0300</lastBuildDate>
+    <item>
+      <title>Kalp pili: geçici, kalıcı ve kablosuz pacemaker; test, bakım ve yönetim</title>
+      <description>Kalp pillerinin çalışma mantığı, tipleri, harici kalp pili testleri, kalibrasyon, IEC 62353 ve alım/bakım yönetimi. Kaynaklar: Fluke SigmaPace 1000 kullanım kılavuzu, Leadless pacing: a comprehensive review (European Heart Journal 2025), WHO bakım programı genel bakışı, IEC 62353 önizlemesi.</description>
+      <itunes:summary>Kalp pillerinin çalışma mantığı, tipleri, harici kalp pili testleri, kalibrasyon, IEC 62353 ve alım/bakım yönetimi. Kaynaklar: Fluke SigmaPace 1000 kullanım kılavuzu, Leadless pacing: a comprehensive review (European Heart Journal 2025), WHO bakım programı genel bakışı, IEC 62353 önizlemesi.</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-11-13-kalp-pili.mp3" length="13175881" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-11-13-kalp-pili</guid>
+      <pubDate>Fri, 13 Nov 2026 06:01:00 +0300</pubDate>
+      <itunes:duration>27:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Anestezi cihazı: çalışma mantığı, bakım, kalibrasyon ve yönetim</title>
+      <description>Anestezi iş istasyonunun gaz beslemesi, vaporizatörler, solunum devresi, periyodik testler, kalibrasyon, IEC 62353 ve alım/bakım yönetimi. Kaynaklar: Datex-Ohmeda Aestiva servis kılavuzu, Fluke VT900A kullanım kılavuzu ve VAPOR uygulama notu, WHO bakım programı genel bakışı, IEC 62353 önizlemesi.</description>
+      <itunes:summary>Anestezi iş istasyonunun gaz beslemesi, vaporizatörler, solunum devresi, periyodik testler, kalibrasyon, IEC 62353 ve alım/bakım yönetimi. Kaynaklar: Datex-Ohmeda Aestiva servis kılavuzu, Fluke VT900A kullanım kılavuzu ve VAPOR uygulama notu, WHO bakım programı genel bakışı, IEC 62353 önizlemesi.</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-11-13-anestezi.mp3" length="8802356" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-11-13-anestezi</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0300</pubDate>
+      <itunes:duration>18:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Hemodiyaliz makinesi: çalışma mantığı, sensör kalibrasyonu, bakım ve yönetim</title>
       <description>Hemodiyaliz makinesinin kan ve diyalizat devreleri, kritik sensörleri, iletkenlik, sıcaklık, pH ve basınç doğrulaması, elektriksel güvenlik, alım ve bakım sözleşmeleri. Kaynaklar: Mesa Labs 90XL diyalizat ölçer kullanım kılavuzu, Nipro SURDIAL DX biyomedikal kitapçığı, DSÖ Tıbbi cihaz bakım programına genel bakış, IEC 62353:2014 önizlemesi.</description>

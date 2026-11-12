@@ -1,5 +1,21 @@
 [
  {
+  "slug": "2026-11-13-kalp-pili",
+  "title": "Kalp pili: geçici, kalıcı ve kablosuz pacemaker; test, bakım ve yönetim",
+  "desc": "Kalp pillerinin çalışma mantığı, tipleri, harici kalp pili testleri, kalibrasyon, IEC 62353 ve alım/bakım yönetimi. Kaynaklar: Fluke SigmaPace 1000 kullanım kılavuzu, Leadless pacing: a comprehensive review (European Heart Journal 2025), WHO bakım programı genel bakışı, IEC 62353 önizlemesi.",
+  "bytes": 13175881,
+  "duration": "27:26",
+  "pubdate": "Fri, 13 Nov 2026 06:01:00 +0300"
+ },
+ {
+  "slug": "2026-11-13-anestezi",
+  "title": "Anestezi cihazı: çalışma mantığı, bakım, kalibrasyon ve yönetim",
+  "desc": "Anestezi iş istasyonunun gaz beslemesi, vaporizatörler, solunum devresi, periyodik testler, kalibrasyon, IEC 62353 ve alım/bakım yönetimi. Kaynaklar: Datex-Ohmeda Aestiva servis kılavuzu, Fluke VT900A kullanım kılavuzu ve VAPOR uygulama notu, WHO bakım programı genel bakışı, IEC 62353 önizlemesi.",
+  "bytes": 8802356,
+  "duration": "18:20",
+  "pubdate": "Fri, 13 Nov 2026 06:00:00 +0300"
+ },
+ {
   "slug": "2026-11-12-diyaliz",
   "title": "Hemodiyaliz makinesi: çalışma mantığı, sensör kalibrasyonu, bakım ve yönetim",
   "desc": "Hemodiyaliz makinesinin kan ve diyalizat devreleri, kritik sensörleri, iletkenlik, sıcaklık, pH ve basınç doğrulaması, elektriksel güvenlik, alım ve bakım sözleşmeleri. Kaynaklar: Mesa Labs 90XL diyalizat ölçer kullanım kılavuzu, Nipro SURDIAL DX biyomedikal kitapçığı, DSÖ Tıbbi cihaz bakım programına genel bakış, IEC 62353:2014 önizlemesi.",
