@@ -15,7 +15,18 @@
     <image><url>https://ssoykan.github.io/tibbi-cihaz-podcast/cover.png</url><title>Zibidi – Tıbbi Cihaz Sohbetleri</title><link>https://ssoykan.github.io/tibbi-cihaz-podcast/</link></image>
     <itunes:category text="Science"/>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
-    <lastBuildDate>Fri, 13 Nov 2026 22:48:13 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:01:33 +0300</lastBuildDate>
+    <item>
+      <title>Otoklav / sterilizatör: çalışma mantığı, validasyon, bakım ve yönetim</title>
+      <description>Otoklav ve buhar sterilizatörleri: çalışma mantığı, kritik parçalar, sınıflar, Bowie-Dick ve vakum testleri, kalibrasyon ve validasyon, yönetim konuları. Kaynaklar: Tuttnauer masaüstü otoklav ve Elara11 kullanım-bakım kılavuzları, DSÖ/PAHO Dekontaminasyon ve yeniden işleme el kitabı (2016), DSÖ Tıbbi cihaz bakım programı (2011), IEC 62353:2014 önizleme.</description>
+      <itunes:summary>Otoklav ve buhar sterilizatörleri: çalışma mantığı, kritik parçalar, sınıflar, Bowie-Dick ve vakum testleri, kalibrasyon ve validasyon, yönetim konuları. Kaynaklar: Tuttnauer masaüstü otoklav ve Elara11 kullanım-bakım kılavuzları, DSÖ/PAHO Dekontaminasyon ve yeniden işleme el kitabı (2016), DSÖ Tıbbi cihaz bakım programı (2011), IEC 62353:2014 önizleme.</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-11-14-otoklav.mp3" length="12767744" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-11-14-otoklav</guid>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0300</pubDate>
+      <itunes:duration>26:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>İnsülin pompası ve CGM: çalışma mantığı, bakım, test ve yönetim</title>
       <description>İnsülin pompası ve sürekli glukoz izleme (CGM) sistemleri: çalışma mantığı, kritik parçalar, tipler, bakım ve test, yönetim konuları. Kaynaklar: Tandem t:slim X2 kullanıcı kılavuzu, Medtronic MiniMed 780G kullanıcı kılavuzu, Fluke Biomedical IDA-5 kılavuzu, IEC 62353:2014 önizleme, CGM doğruluğu sistematik derlemesi (PMC11635893).</description>

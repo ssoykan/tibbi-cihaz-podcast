@@ -1,5 +1,13 @@
 [
  {
+  "slug": "2026-11-14-otoklav",
+  "title": "Otoklav / sterilizatör: çalışma mantığı, validasyon, bakım ve yönetim",
+  "desc": "Otoklav ve buhar sterilizatörleri: çalışma mantığı, kritik parçalar, sınıflar, Bowie-Dick ve vakum testleri, kalibrasyon ve validasyon, yönetim konuları. Kaynaklar: Tuttnauer masaüstü otoklav ve Elara11 kullanım-bakım kılavuzları, DSÖ/PAHO Dekontaminasyon ve yeniden işleme el kitabı (2016), DSÖ Tıbbi cihaz bakım programı (2011), IEC 62353:2014 önizleme.",
+  "bytes": 12767744,
+  "duration": "26:35",
+  "pubdate": "Sat, 14 Nov 2026 06:00:00 +0300"
+ },
+ {
   "slug": "2026-11-14-insulin-pompasi",
   "title": "İnsülin pompası ve CGM: çalışma mantığı, bakım, test ve yönetim",
   "desc": "İnsülin pompası ve sürekli glukoz izleme (CGM) sistemleri: çalışma mantığı, kritik parçalar, tipler, bakım ve test, yönetim konuları. Kaynaklar: Tandem t:slim X2 kullanıcı kılavuzu, Medtronic MiniMed 780G kullanıcı kılavuzu, Fluke Biomedical IDA-5 kılavuzu, IEC 62353:2014 önizleme, CGM doğruluğu sistematik derlemesi (PMC11635893).",
