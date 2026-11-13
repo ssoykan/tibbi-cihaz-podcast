@@ -15,7 +15,18 @@
     <image><url>https://ssoykan.github.io/tibbi-cihaz-podcast/cover.png</url><title>Zibidi – Tıbbi Cihaz Sohbetleri</title><link>https://ssoykan.github.io/tibbi-cihaz-podcast/</link></image>
     <itunes:category text="Science"/>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
-    <lastBuildDate>Thu, 12 Nov 2026 22:55:07 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:48:13 +0300</lastBuildDate>
+    <item>
+      <title>İnsülin pompası ve CGM: çalışma mantığı, bakım, test ve yönetim</title>
+      <description>İnsülin pompası ve sürekli glukoz izleme (CGM) sistemleri: çalışma mantığı, kritik parçalar, tipler, bakım ve test, yönetim konuları. Kaynaklar: Tandem t:slim X2 kullanıcı kılavuzu, Medtronic MiniMed 780G kullanıcı kılavuzu, Fluke Biomedical IDA-5 kılavuzu, IEC 62353:2014 önizleme, CGM doğruluğu sistematik derlemesi (PMC11635893).</description>
+      <itunes:summary>İnsülin pompası ve sürekli glukoz izleme (CGM) sistemleri: çalışma mantığı, kritik parçalar, tipler, bakım ve test, yönetim konuları. Kaynaklar: Tandem t:slim X2 kullanıcı kılavuzu, Medtronic MiniMed 780G kullanıcı kılavuzu, Fluke Biomedical IDA-5 kılavuzu, IEC 62353:2014 önizleme, CGM doğruluğu sistematik derlemesi (PMC11635893).</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-11-14-insulin-pompasi.mp3" length="10781811" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-11-14-insulin-pompasi</guid>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0300</pubDate>
+      <itunes:duration>22:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Kalp pili: geçici, kalıcı ve kablosuz pacemaker; test, bakım ve yönetim</title>
       <description>Kalp pillerinin çalışma mantığı, tipleri, harici kalp pili testleri, kalibrasyon, IEC 62353 ve alım/bakım yönetimi. Kaynaklar: Fluke SigmaPace 1000 kullanım kılavuzu, Leadless pacing: a comprehensive review (European Heart Journal 2025), WHO bakım programı genel bakışı, IEC 62353 önizlemesi.</description>
