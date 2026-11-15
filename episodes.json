@@ -1,5 +1,21 @@
 [
  {
+  "slug": "2026-11-16-endoskop",
+  "title": "Endoskop: çalışma mantığı, bakım, kaçak testi ve yönetim",
+  "desc": "Esnek ve rijit endoskoplar: çalışma mantığı, kritik parçalar, tipler, kaçak testi ve yeniden işleme, önlenebilir onarımlar, yönetim konuları. Kaynaklar: Olympus önlenebilir esnek endoskop onarımları kılavuzu, Olympus 190 serisi temizlik kılavuzu, NHS Scotland SHTM 01-06 Bölüm A, DSÖ tıbbi cihaz bakım programı, IEC 62353 önizlemesi.",
+  "bytes": 8492439,
+  "duration": "17:41",
+  "pubdate": "Mon, 16 Nov 2026 06:00:00 +0300"
+ },
+ {
+  "slug": "2026-11-16-inkubator",
+  "title": "İnkübatör (yenidoğan): çalışma mantığı, bakım, test ve yönetim",
+  "desc": "Yenidoğan inkübatörleri: çalışma mantığı, kritik parçalar, inkübatör tipleri, sıcaklık/nem/oksijen kontrolü, periyodik test ve kalibrasyon, yönetim konuları. Kaynaklar: Dräger Isolette C2000 servis kılavuzu, Fluke INCU II inkübatör analizörü kullanım kılavuzu, DSÖ tıbbi cihaz bakım programı, IEC 62353 önizlemesi.",
+  "bytes": 11435708,
+  "duration": "23:49",
+  "pubdate": "Mon, 16 Nov 2026 06:00:00 +0300"
+ },
+ {
   "slug": "2026-11-14-otoklav",
   "title": "Otoklav / sterilizatör: çalışma mantığı, validasyon, bakım ve yönetim",
   "desc": "Otoklav ve buhar sterilizatörleri: çalışma mantığı, kritik parçalar, sınıflar, Bowie-Dick ve vakum testleri, kalibrasyon ve validasyon, yönetim konuları. Kaynaklar: Tuttnauer masaüstü otoklav ve Elara11 kullanım-bakım kılavuzları, DSÖ/PAHO Dekontaminasyon ve yeniden işleme el kitabı (2016), DSÖ Tıbbi cihaz bakım programı (2011), IEC 62353:2014 önizleme.",
