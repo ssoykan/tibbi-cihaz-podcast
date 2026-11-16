@@ -15,7 +15,29 @@
     <image><url>https://ssoykan.github.io/tibbi-cihaz-podcast/cover.png</url><title>Zibidi – Tıbbi Cihaz Sohbetleri</title><link>https://ssoykan.github.io/tibbi-cihaz-podcast/</link></image>
     <itunes:category text="Science"/>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
-    <lastBuildDate>Sun, 15 Nov 2026 22:50:45 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:59:55 +0300</lastBuildDate>
+    <item>
+      <title>Koklear implant: çalışma mantığı, bileşenler, bakım ve yönetim</title>
+      <description>Koklear implant: çalışma mantığı, dış ses işlemcisi ve iç implant bileşenleri, sistem tipleri, bakım ve sorun giderme, yönetim konuları. Kaynaklar: Zeng ve ark. IEEE Rev Biomed Eng 2008 koklear implant sistem tasarımı, Cochlear Nucleus 8 ses işlemcisi kullanım kılavuzu, NIDCD koklear implant bilgi notu, DSÖ tıbbi cihaz bakım programı.</description>
+      <itunes:summary>Koklear implant: çalışma mantığı, dış ses işlemcisi ve iç implant bileşenleri, sistem tipleri, bakım ve sorun giderme, yönetim konuları. Kaynaklar: Zeng ve ark. IEEE Rev Biomed Eng 2008 koklear implant sistem tasarımı, Cochlear Nucleus 8 ses işlemcisi kullanım kılavuzu, NIDCD koklear implant bilgi notu, DSÖ tıbbi cihaz bakım programı.</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-11-17-koklear-implant.mp3" length="10811695" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-11-17-koklear-implant</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0300</pubDate>
+      <itunes:duration>22:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Kalp-akciğer makinesi: çalışma mantığı, bakım, test ve yönetim</title>
+      <description>Kalp-akciğer makinesi (kardiyopulmoner bypass): çalışma mantığı, pompalar ve modüller, güvenlik izleme, periyodik bakım ve testler, yönetim konuları. Kaynaklar: LivaNova S5 servis kılavuzu, SCTS 2023 CPB izleme ve güvenlik önerileri, AmSECT 2023 perfüzyon standartları, DSÖ tıbbi cihaz bakım programı, IEC 62353:2014 önizlemesi.</description>
+      <itunes:summary>Kalp-akciğer makinesi (kardiyopulmoner bypass): çalışma mantığı, pompalar ve modüller, güvenlik izleme, periyodik bakım ve testler, yönetim konuları. Kaynaklar: LivaNova S5 servis kılavuzu, SCTS 2023 CPB izleme ve güvenlik önerileri, AmSECT 2023 perfüzyon standartları, DSÖ tıbbi cihaz bakım programı, IEC 62353:2014 önizlemesi.</itunes:summary>
+      <enclosure url="https://ssoykan.github.io/tibbi-cihaz-podcast/episodes/2026-11-17-kalp-akciger-makinesi.mp3" length="11920122" type="audio/mpeg"/>
+      <guid isPermaLink="false">tibbi-cihaz-podcast-2026-11-17-kalp-akciger-makinesi</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0300</pubDate>
+      <itunes:duration>24:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Endoskop: çalışma mantığı, bakım, kaçak testi ve yönetim</title>
       <description>Esnek ve rijit endoskoplar: çalışma mantığı, kritik parçalar, tipler, kaçak testi ve yeniden işleme, önlenebilir onarımlar, yönetim konuları. Kaynaklar: Olympus önlenebilir esnek endoskop onarımları kılavuzu, Olympus 190 serisi temizlik kılavuzu, NHS Scotland SHTM 01-06 Bölüm A, DSÖ tıbbi cihaz bakım programı, IEC 62353 önizlemesi.</description>

@@ -1,5 +1,21 @@
 [
  {
+  "slug": "2026-11-17-koklear-implant",
+  "title": "Koklear implant: çalışma mantığı, bileşenler, bakım ve yönetim",
+  "desc": "Koklear implant: çalışma mantığı, dış ses işlemcisi ve iç implant bileşenleri, sistem tipleri, bakım ve sorun giderme, yönetim konuları. Kaynaklar: Zeng ve ark. IEEE Rev Biomed Eng 2008 koklear implant sistem tasarımı, Cochlear Nucleus 8 ses işlemcisi kullanım kılavuzu, NIDCD koklear implant bilgi notu, DSÖ tıbbi cihaz bakım programı.",
+  "bytes": 10811695,
+  "duration": "22:31",
+  "pubdate": "Tue, 17 Nov 2026 06:00:00 +0300"
+ },
+ {
+  "slug": "2026-11-17-kalp-akciger-makinesi",
+  "title": "Kalp-akciğer makinesi: çalışma mantığı, bakım, test ve yönetim",
+  "desc": "Kalp-akciğer makinesi (kardiyopulmoner bypass): çalışma mantığı, pompalar ve modüller, güvenlik izleme, periyodik bakım ve testler, yönetim konuları. Kaynaklar: LivaNova S5 servis kılavuzu, SCTS 2023 CPB izleme ve güvenlik önerileri, AmSECT 2023 perfüzyon standartları, DSÖ tıbbi cihaz bakım programı, IEC 62353:2014 önizlemesi.",
+  "bytes": 11920122,
+  "duration": "24:49",
+  "pubdate": "Tue, 17 Nov 2026 06:00:00 +0300"
+ },
+ {
   "slug": "2026-11-16-endoskop",
   "title": "Endoskop: çalışma mantığı, bakım, kaçak testi ve yönetim",
   "desc": "Esnek ve rijit endoskoplar: çalışma mantığı, kritik parçalar, tipler, kaçak testi ve yeniden işleme, önlenebilir onarımlar, yönetim konuları. Kaynaklar: Olympus önlenebilir esnek endoskop onarımları kılavuzu, Olympus 190 serisi temizlik kılavuzu, NHS Scotland SHTM 01-06 Bölüm A, DSÖ tıbbi cihaz bakım programı, IEC 62353 önizlemesi.",
